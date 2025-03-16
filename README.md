@@ -7,17 +7,17 @@
 
 ## 1. 😋 做饭
 
-- [ ] [0001. 鸡翅](https://github.com/Tdahuyou/TNotes.cooking/tree/main/notes/0001.%20%E9%B8%A1%E7%BF%85/README.md) <!-- [locale](./notes/0001.%20%E9%B8%A1%E7%BF%85/README.md) -->  
+- [x] [0001. 鸡翅](https://github.com/Tdahuyou/TNotes.cooking/tree/main/notes/0001.%20%E9%B8%A1%E7%BF%85/README.md) <!-- [locale](./notes/0001.%20%E9%B8%A1%E7%BF%85/README.md) -->  
   - [1. 📝 食材清单](https://github.com/Tdahuyou/TNotes.cooking/tree/main/notes/0001.%20%E9%B8%A1%E7%BF%85/README.md#1--食材清单)
   - [2. 📒 制作流程](https://github.com/Tdahuyou/TNotes.cooking/tree/main/notes/0001.%20%E9%B8%A1%E7%BF%85/README.md#2--制作流程)
   
 
-- [ ] [0002. 绿豆汤](https://github.com/Tdahuyou/TNotes.cooking/tree/main/notes/0002.%20%E7%BB%BF%E8%B1%86%E6%B1%A4/README.md) <!-- [locale](./notes/0002.%20%E7%BB%BF%E8%B1%86%E6%B1%A4/README.md) -->  
+- [x] [0002. 绿豆汤](https://github.com/Tdahuyou/TNotes.cooking/tree/main/notes/0002.%20%E7%BB%BF%E8%B1%86%E6%B1%A4/README.md) <!-- [locale](./notes/0002.%20%E7%BB%BF%E8%B1%86%E6%B1%A4/README.md) -->  
   - [1. 📝 食材清单](https://github.com/Tdahuyou/TNotes.cooking/tree/main/notes/0002.%20%E7%BB%BF%E8%B1%86%E6%B1%A4/README.md#1--食材清单)
   - [2. 📒 制作流程](https://github.com/Tdahuyou/TNotes.cooking/tree/main/notes/0002.%20%E7%BB%BF%E8%B1%86%E6%B1%A4/README.md#2--制作流程)
   
 
-- [ ] [0003. 蛋羹](https://github.com/Tdahuyou/TNotes.cooking/tree/main/notes/0003.%20%E8%9B%8B%E7%BE%B9/README.md) <!-- [locale](./notes/0003.%20%E8%9B%8B%E7%BE%B9/README.md) -->  
+- [x] [0003. 蛋羹](https://github.com/Tdahuyou/TNotes.cooking/tree/main/notes/0003.%20%E8%9B%8B%E7%BE%B9/README.md) <!-- [locale](./notes/0003.%20%E8%9B%8B%E7%BE%B9/README.md) -->  
   - [1. 📝 食材清单](https://github.com/Tdahuyou/TNotes.cooking/tree/main/notes/0003.%20%E8%9B%8B%E7%BE%B9/README.md#1--食材清单)
   - [2. 📒 制作流程](https://github.com/Tdahuyou/TNotes.cooking/tree/main/notes/0003.%20%E8%9B%8B%E7%BE%B9/README.md#2--制作流程)
   
