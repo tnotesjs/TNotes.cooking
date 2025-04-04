@@ -2,7 +2,16 @@
   "author": "Tdahuyou",
   "repoName": "TNotes.cooking",
   "keywords": ["TNotes.cooking"],
-  "ignore_dirs": [".vscode", "0000", "assets", "node_modules"],
+  "ignore_dirs": [
+    ".vscode",
+    "0000",
+    "assets",
+    "node_modules",
+    "hidden",
+    "demos",
+    "assets"
+  ],
+  "port": 9393,
   "menuItems": [
     {
       "text": "🏠 Home",
@@ -19,10 +28,6 @@
     {
       "text": "📂 TNotes.assets",
       "link": "https://www.yuque.com/tdahuyou/tnotes.assets"
-    },
-    {
-      "text": "👀 TOC",
-      "link": "/TOC"
     }
   ],
   "socialLinks": [
@@ -41,8 +46,8 @@
       }
     },
     {
-      "ariaLabel": "TNotes.cooking github 仓库链接",
-      "link": "https://github.com/Tdahuyou/TNotes.cooking",
+      "ariaLabel": "TNotes.template github 仓库链接",
+      "link": "https://github.com/Tdahuyou/TNotes.template",
       "icon": "github"
     }
   ]
