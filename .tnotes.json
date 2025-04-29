@@ -1,9 +1,7 @@
 {
   "author": "Tdahuyou",
   "repoName": "TNotes.cooking",
-  "keywords": [
-    "TNotes.cooking"
-  ],
+  "keywords": ["TNotes.cooking"],
   "ignore_dirs": [
     ".vscode",
     "0000",
@@ -13,6 +11,7 @@
     "demos",
     "assets"
   ],
+  "rootDocsSrcDir": "../_/docs/src",
   "port": 9393,
   "menuItems": [
     {
