@@ -12,6 +12,15 @@
     "assets"
   ],
   "rootDocsSrcDir": "../_/docs/src",
+  "home.features.item": {
+    "icon": {
+      "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--cooking.svg"
+    },
+    "title": "做饭笔记",
+    "completed_notes_count": 5,
+    "details": "记录一些自己做过的吃的。",
+    "link": "https://tdahuyou.github.io/TNotes.cooking/"
+  },
   "port": 9393,
   "menuItems": [
     {
