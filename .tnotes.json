@@ -1,7 +1,9 @@
 {
   "author": "Tdahuyou",
   "repoName": "TNotes.cooking",
-  "keywords": ["TNotes.cooking"],
+  "keywords": [
+    "TNotes.cooking"
+  ],
   "ignore_dirs": [
     ".vscode",
     "0000",
