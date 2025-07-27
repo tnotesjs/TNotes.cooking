@@ -13,15 +13,18 @@
     "demos",
     "assets"
   ],
-  "rootDocsSrcDir": "../_/docs/src",
-  "home.features.item": {
+  "rootSidebarDir": "../_/sidebars",
+  "root_item": {
     "icon": {
       "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--cooking.svg"
     },
     "title": "cooking",
     "completed_notes_count": 5,
     "details": "做饭笔记",
-    "link": "https://tdahuyou.github.io/TNotes.cooking/"
+    "link": "https://tdahuyou.github.io/TNotes.cooking/",
+    "created_at": 1742093975000,
+    "updated_at": 1753580630000,
+    "days_since_birth": 9393
   },
   "port": 9393,
   "menuItems": [
