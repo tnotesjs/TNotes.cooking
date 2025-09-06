@@ -1,4 +1,4 @@
-# [0005. 排骨汤](https://github.com/Tdahuyou/TNotes.cooking/tree/main/notes/0005.%20%E6%8E%92%E9%AA%A8%E6%B1%A4)
+# [0005. 排骨汤](https://github.com/tnotesjs/TNotes.cooking/tree/main/notes/0005.%20%E6%8E%92%E9%AA%A8%E6%B1%A4)
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0001. 鸡翅](https://github.com/Tdahuyou/TNotes.cooking/tree/main/notes/0001.%20%E9%B8%A1%E7%BF%85)
+# [0001. 鸡翅](https://github.com/tnotesjs/TNotes.cooking/tree/main/notes/0001.%20%E9%B8%A1%E7%BF%85)
 
 <!-- region:toc -->
 

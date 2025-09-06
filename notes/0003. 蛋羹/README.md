@@ -1,4 +1,4 @@
-# [0003. 蛋羹](https://github.com/Tdahuyou/TNotes.cooking/tree/main/notes/0003.%20%E8%9B%8B%E7%BE%B9)
+# [0003. 蛋羹](https://github.com/tnotesjs/TNotes.cooking/tree/main/notes/0003.%20%E8%9B%8B%E7%BE%B9)
 
 <!-- region:toc -->
 

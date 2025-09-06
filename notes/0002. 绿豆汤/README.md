@@ -1,4 +1,4 @@
-# [0002. 绿豆汤](https://github.com/Tdahuyou/TNotes.cooking/tree/main/notes/0002.%20%E7%BB%BF%E8%B1%86%E6%B1%A4)
+# [0002. 绿豆汤](https://github.com/tnotesjs/TNotes.cooking/tree/main/notes/0002.%20%E7%BB%BF%E8%B1%86%E6%B1%A4)
 
 <!-- region:toc -->
 
