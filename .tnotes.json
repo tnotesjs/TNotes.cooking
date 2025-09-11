@@ -23,7 +23,7 @@
     "details": "做饭笔记",
     "link": "https://tnotesjs.github.io/TNotes.cooking/",
     "created_at": 1742093975000,
-    "updated_at": 1757172129446,
+    "updated_at": 1757554010727,
     "days_since_birth": 9393
   },
   "port": 9393,
@@ -38,7 +38,7 @@
     },
     {
       "text": "📒 TNotes",
-      "link": "https://tnotesjs.github.io/notes"
+      "link": "https://tnotesjs.github.io/TNotes"
     },
     {
       "text": "📂 TNotes.yuque",
