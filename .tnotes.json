@@ -1,7 +1,9 @@
 {
   "author": "tnotesjs",
   "repoName": "TNotes.cooking",
-  "keywords": ["TNotes.cooking"],
+  "keywords": [
+    "TNotes.cooking"
+  ],
   "ignore_dirs": [
     ".vscode",
     "0000",
@@ -21,7 +23,7 @@
     "details": "做饭笔记",
     "link": "https://tnotesjs.github.io/TNotes.cooking/",
     "created_at": 1742093975000,
-    "updated_at": 1757554010727,
+    "updated_at": 1758172023796,
     "days_since_birth": 9393
   },
   "port": 9393,
