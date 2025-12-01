@@ -29,12 +29,12 @@
       "25.09": 5,
       "25.10": 5,
       "25.11": 5,
-      "25.12": 0
+      "25.12": 5
     },
     "details": "做饭笔记",
     "link": "https://tnotesjs.github.io/TNotes.cooking/",
     "created_at": 1742093975000,
-    "updated_at": 1764548496327,
+    "updated_at": 1764549240484,
     "days_since_birth": 9393
   },
   "port": 9393,
