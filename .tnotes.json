@@ -20,10 +20,10 @@
     },
     "title": "cooking",
     "completed_notes_count": {
-      "25.03": 0,
-      "25.04": 0,
-      "25.05": 0,
-      "25.06": 0,
+      "25.03": 5,
+      "25.04": 5,
+      "25.05": 5,
+      "25.06": 5,
       "25.07": 5,
       "25.08": 5,
       "25.09": 5,
@@ -34,7 +34,7 @@
     "details": "做饭笔记",
     "link": "https://tnotesjs.github.io/TNotes.cooking/",
     "created_at": 1742093975000,
-    "updated_at": 1764549240484,
+    "updated_at": 1764578443000,
     "days_since_birth": 9393
   },
   "port": 9393,
