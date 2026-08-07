@@ -32,13 +32,13 @@
       "26.02": 5,
       "26.03": 5,
       "26.04": 5,
-      "26.06": 5
+      "26.05": 5,
+      "26.06": 5,
+      "26.07": 5,
+      "26.08": 5
     },
     "details": "做饭笔记",
-    "link": "https://tnotesjs.github.io/TNotes.cooking/",
-    "created_at": 1742093975000,
-    "updated_at": 1782714951000,
-    "days_since_birth": 9863
+    "link": "https://tnotesjs.github.io/TNotes.cooking/"
   },
   "port": 9393,
   "menuItems": [
