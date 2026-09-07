@@ -1,0 +1,37 @@
+{
+  "title": "cooking",
+  "name": "TNotes.cooking",
+  "description": "做饭笔记",
+  "icon": {
+    "src": "https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/assets/icon--cooking.svg"
+  },
+  "repositoryUrl": "https://github.com/tnotesjs/TNotes.cooking",
+  "port": 9393,
+  "pageUrl": "https://tnotesjs.github.io/TNotes.cooking/",
+  "base": "/TNotes.cooking/",
+  "stats": {
+    "enabled": true,
+    "completedNotesCount": {
+      "25.03": 5,
+      "25.04": 5,
+      "25.05": 5,
+      "25.06": 5,
+      "25.07": 5,
+      "25.08": 5,
+      "25.09": 5,
+      "25.10": 5,
+      "25.11": 5,
+      "25.12": 5,
+      "26.01": 5,
+      "26.02": 5,
+      "26.03": 5,
+      "26.04": 5,
+      "26.05": 5,
+      "26.06": 5,
+      "26.07": 5,
+      "26.08": 5,
+      "26.09": 5
+    }
+  },
+  "discussions": true
+}
