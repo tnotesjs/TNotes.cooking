@@ -3,7 +3,7 @@
   "name": "TNotes.cooking",
   "description": "做饭笔记",
   "icon": {
-    "src": "https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/assets/icon--cooking.svg"
+    "src": "../assets/.tn-kb-icon.svg"
   },
   "repositoryUrl": "https://github.com/tnotesjs/TNotes.cooking",
   "port": 9393,
